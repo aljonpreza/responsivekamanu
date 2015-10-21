@@ -2,13 +2,11 @@ body {
   padding-top: 50px;  /* Move body of page below navbar. */
 }
 
-.page-content {
-  padding: 10px;
-  text-align: center;
+.navbar-brand {
+  padding-top: 0px;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.navbar-inverse {
+  height: 81px;
+  background-image: url(bg-carbon.jpg);
 }
